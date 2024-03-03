@@ -1,0 +1,23 @@
+@import url(style.css);
+
+
+.auth-card {
+    margin: 60px auto;
+    max-width: 450px;
+}
+
+.auth-site-logo img {
+	display: block;
+	width: 110px;
+	height: 100px;
+	margin: auto;
+}
+.auth-site-logo {
+    text-align: center;
+    padding: 20px;
+}
+
+
+.auth-card p {
+    font-size: 13px;
+}
